@@ -1,13 +1,13 @@
-package CRUD.n1.ControllerExemple;
+package CRUD.n1.ControllerExample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ControllerExempleApplication {
+public class ControllerExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ControllerExempleApplication.class, args);
+		SpringApplication.run(ControllerExampleApplication.class, args);
 	}
 
 }

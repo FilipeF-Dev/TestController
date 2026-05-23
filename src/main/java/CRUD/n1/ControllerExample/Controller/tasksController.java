@@ -1,4 +1,4 @@
-package CRUD.n1.ControllerExemple.Controller;
+package CRUD.n1.ControllerExample.Controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
